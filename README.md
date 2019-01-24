@@ -1,4 +1,11 @@
 # Traffic-Simulator : A Graphical Traffic Simulator  [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
+
+ <p align="center">
+  <span>Language:</span> 
+  <a href="https://github.com/Zildj1an/Traffic-Simulator">Español</a> |
+  <a href="https://github.com/Zildj1an/Traffic-Simulator">English</a> 
+</p>
+
 ## How does it work?
 
 It uses the MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive. you can find a screenshot and collaborators at the end of this file.
