@@ -1,5 +1,4 @@
-# Traffic-Simulator
-Graphical Traffic Simulator 
+# Traffic-Simulator : A Graphical Traffic Simulator 
 -
 ## How does it work?
 
