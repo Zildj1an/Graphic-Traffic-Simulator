@@ -2,7 +2,7 @@
 
  <p align="center">
   <span>Language:</span> 
-  <a href="https://github.com/Zildj1an/Traffic-Simulator">Español</a> |
+  <a href="https://github.com/Zildj1an/Traffic-Simulator/blob/master/LEEME.md">Español</a> |
   <a href="https://github.com/Zildj1an/Traffic-Simulator">English</a> 
 </p>
 
