@@ -2,13 +2,12 @@
 Graphical Traffic Simulator 
 -
 <h3> What is it? </h3>
-This object-oriented Traffic Simulator works with several models of vehicles, roads and junctions. You can test different junction policies. The simulator maintains a collection of simulated objects (vehicles on roads connected by
+This object-oriented Traffic Simulator works with several models of vehicles, roads and junctions. You can test different junction policies in three different styles: "batch", "gui", "race" 
+The simulator maintains a collection of simulated objects (vehicles on roads connected by
 junctions); and a discrete time counter that is incremented in a loop while performing the
 following operations:
 
-1. Process pre-scheduled
-events
-that can add or alter simulated objects. Example: 
+1. Process pre-scheduled events that can add or alter simulated objects. Example: 
 
               [vehicle_report]
               id = v1
