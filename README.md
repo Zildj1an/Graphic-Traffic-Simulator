@@ -1,5 +1,4 @@
 # Traffic-Simulator : A Graphical Traffic Simulator 
--
 ## How does it work?
 
 It uses MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive. you can find a screenshot and collaborators at the end of this file.
