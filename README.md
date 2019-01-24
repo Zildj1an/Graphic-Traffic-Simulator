@@ -9,7 +9,8 @@ The simulator maintains a collection of simulated objects (vehicles on roads con
 junctions); and a discrete time counter that is incremented in a loop while performing the
 following operations:
 
-  - Process pre-scheduled events that can add or alter simulated objects. Many example report files can be found <link rel="resources" href="https://github.com/Zildj1an/Traffic-Simulator/tree/master/resources">.Example: 
+  - Process pre-scheduled events that can add or alter simulated objects. Many example report files can be found at 
+<a href="uhttps://github.com/Zildj1an/Traffic-Simulator/tree/master/resources"> resources folder/a>.Example: 
 
               [vehicle_report]
               id = v1
