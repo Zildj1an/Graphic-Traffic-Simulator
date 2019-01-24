@@ -1,8 +1,11 @@
 # Traffic-Simulator
 Graphical Traffic Simulator 
 -
+## How does it work?
 
-## What is it? 
+It uses MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive. you can find a screenshot and collaborators at the end of this file.
+
+## Main idea 
 This object-oriented Traffic Simulator works with several models of vehicles, roads and junctions. You can test different junction policies in three different styles: "batch", "gui", "race" 
 The simulator maintains a collection of simulated objects (vehicles on roads connected by
 junctions); and a discrete time counter that is incremented in a loop while performing the
@@ -23,10 +26,6 @@ example, vehicles will advance if the road ahead is clear, but will have to stop
 wait for red traffic lights.
 
   -  Report on the current state of the simulated objects using the GUI
-
-## How does it work?
-
-It uses MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive.
 
 ## Screenshot
 
