@@ -1,7 +1,8 @@
 # Traffic-Simulator
 Graphical Traffic Simulator 
 -
-<h3> What is it? </h3>
+
+## What is it? 
 This object-oriented Traffic Simulator works with several models of vehicles, roads and junctions. You can test different junction policies in three different styles: "batch", "gui", "race" 
 The simulator maintains a collection of simulated objects (vehicles on roads connected by
 junctions); and a discrete time counter that is incremented in a loop while performing the
@@ -27,6 +28,10 @@ wait for red traffic lights.
 
 It uses MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive.
 
-Example:
+## Screenshot
 
 ![alt text](https://github.com/Zildj1an/Traffic-Simulator/blob/master/GUI.png)
+
+## Collaborators
+* **Carlos Bilbao** &lt;cbilbao@ucm.com&gt;
+* **Álvaro Lopez** &lt;https://github.com/KillerKing18&gt;
