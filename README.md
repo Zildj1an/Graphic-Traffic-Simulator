@@ -30,4 +30,4 @@ It uses MVC design pattern for a Swing GUI, and Java Threads for making the GUI 
 
 Example:
 
-![alt text]()
+![alt text](https://github.com/Zildj1an/Traffic-Simulator/blob/master/GUI.png)
