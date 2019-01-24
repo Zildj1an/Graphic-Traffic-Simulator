@@ -24,7 +24,7 @@ wait for red traffic lights.
 
   -  Report on the current state of the simulated objects using the GUI
 
-<h3> How does it work? </h3>
+## How does it work?
 
 It uses MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive.
 
