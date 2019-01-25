@@ -10,14 +10,11 @@
 
 Emplea el patrón de diseño MVC para el Swing GUI, y Java Threads para ser GUI responsive. Puedes encontrar una captura de pantalla y los colaboradores al fondo.
 
-## Idea Principal (TODO) 
-This object-oriented Traffic Simulator works with several models of vehicles, roads and junctions. You can test different junction policies in three different styles: "batch", "gui", "race" 
-The simulator maintains a collection of simulated objects (vehicles on roads connected by
-junctions); and a discrete time counter that is incremented in a loop while performing the
-following operations:
+## Idea Principal
+Este simulador de Tráfico orientado a objetos trabaja con varios modelos de vehículos, carreteras y cruces. Puedes testear diferentes políticas de cruces en tres estilos distintos: "batch", "gui", "race" 
+El simulador mantiene una colección de objetos simulados (vehículos y carreteras conectadas por cruces); y un contador de tiempo que incrementa en un bucle mientras realiza las siguientes operaciones:
 
-  - Process pre-scheduled events that can add or alter simulated objects. Many example report files can be found at 
-<a href="https://github.com/Zildj1an/Traffic-Simulator/tree/master/resources">resources folder </a>.Event example: 
+  - Procesa eventos pre-planificados que pueden añadir o modificar objetos simulados. Muchos archivos de reporte de ejemplo pueden encontrarse en <a href="https://github.com/Zildj1an/Traffic-Simulator/tree/master/resources">resources folder </a>.Event example: 
 
               [vehicle_report]
               id = v1
@@ -27,11 +24,9 @@ following operations:
               faulty = 0
               location = (r1,30)
 
-  - Advance the state of currently simulated objects, according to their behaviors. For
-example, vehicles will advance if the road ahead is clear, but will have to stop and
-wait for red traffic lights.
+  - Avanza el estado de los objetos actualmente simulados, de acuerdo con sus comportamientos. Por ejemplo, los vehiculos avanzarán si la carretera que les espera está libre, pero se detendrán por semáforos en rojo.
 
-  -  Report on the current state of the simulated objects using the GUI
+  -  Reporte del actual estado del simulador usando el GUI
 
 ## Screenshot
 
