@@ -42,4 +42,4 @@ wait for red traffic lights.
 * **Álvaro Lopez** &lt;https://github.com/KillerKing18&gt;
 
 ## License
-This project is licensed under the GNU-GPL License - see the <a href="https://github.com/Zildj1an/Kernel-Numbers-Generator/blob/master/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the GNU-GPL License - see the <a href="https://github.com/Zildj1an/Graphic-Traffic-Simulator/blob/master/LICENSE">LICENSE.md</a> file for details
