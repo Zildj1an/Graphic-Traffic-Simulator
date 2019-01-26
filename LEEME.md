@@ -6,7 +6,7 @@
   <a href="https://github.com/Zildj1an/Traffic-Simulator">English</a> 
 </p>
 
-## ¿Cómo funciona?
+## 👨‍🔧 ¿Cómo funciona?
 
 Emplea el patrón de diseño MVC para el Swing GUI, y Java Threads para ser GUI responsive. Puedes encontrar una captura de pantalla y los colaboradores al fondo.
 
