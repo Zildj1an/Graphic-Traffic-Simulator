@@ -6,7 +6,7 @@
   <a href="https://github.com/Zildj1an/Traffic-Simulator">English</a> 
 </p>
 
-## How does it work?
+## 👨‍🔧 How does it work? 
 
 It uses the MVC design pattern for a Swing GUI, and Java Threads for making the GUI responsive. you can find a <a href = "https://github.com/Zildj1an/Traffic-Simulator#screenshot">screenshot</a> and collaborators at the end of the file.
 
