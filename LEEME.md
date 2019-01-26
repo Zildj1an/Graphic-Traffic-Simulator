@@ -35,3 +35,6 @@ El simulador mantiene una colección de objetos simulados (vehículos y carreter
 ## Colaboradores
 * **Carlos Bilbao** &lt;cbilbao@ucm.com&gt;
 * **Álvaro Lopez** &lt;https://github.com/KillerKing18&gt;
+
+## Licencia
+Este proyecto tiene la licencia GNU-GPL - ver <a href="https://github.com/Zildj1an/Graphic-Traffic-Simulator/blob/master/LICENSE">LICENSE.md</a> para más detalles.
